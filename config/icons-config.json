@@ -786,6 +786,10 @@
                 {
                     "name" : "cloud--v1",
                     "tags" : ["salesforce"]
+                },
+				        {
+                    "name" : "gorilla",
+                    "tags" : ["gorilla", "kong"]
                 }
               ]
         }
